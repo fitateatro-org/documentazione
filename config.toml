@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://documentazione.fitateatro.org/'
 languageCode = 'it-IT'
 title = 'Federazione Italiana Teatro Amatori'
 theme = 'hugo-theme-learn'
