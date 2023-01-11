@@ -46,5 +46,7 @@ theme = 'hugo-theme-learn'
 [outputs]
   home = [ "HTML", "RSS", "JSON"]
   section = ["HTML","RSS", "JSON"]
-[headers.values]
-  Access-Control-Allow-Origin = "*"
+[[headers]]
+  for = "/**.json"
+    [server.headers.values]
+    Access-Control-Allow-Origin = "*"
