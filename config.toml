@@ -1,0 +1,4 @@
+baseURL = 'http://example.org/'
+languageCode = 'it-IT'
+title = 'Federazione Italiana Teatro Amatori'
+theme = 'hugo-geekdoc'
