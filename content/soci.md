@@ -1,8 +1,13 @@
-| chiave               | valore                        |
-| -------------------- | ----------------------------- |
-| Tipo                 | --                           |
-| Data creazione       | 11-01-2023 12:52:03 | 
-| Data ultima modifica | 11-01-2023 12:52:03  |
++++
+title = "Soci"
+chapter = false
++++
+
+| chiave               | valore              |
+| -------------------- | ------------------- |
+| Tipo                 | --                  |
+| Data creazione       | 11-01-2023 12:52:03 |
+| Data ultima modifica | 11-01-2023 12:52:03 |
 
 ## descrizione
 --
