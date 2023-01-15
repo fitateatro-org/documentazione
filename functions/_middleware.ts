@@ -24,6 +24,8 @@ export const onRequest: PagesFunction = async ({ next }) => {
 	return response;
 };
 
+
+/*
 export async function onRequest(context: {
   request: Request;
   next: () => Promise<Response>;
@@ -52,3 +54,4 @@ export async function onRequest(context: {
     });
   }
 }
+*/
